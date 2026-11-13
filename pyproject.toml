@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "spinefm"
 version = "0.1.0"
 description = "Anatomy-guided CT + MRI framework on frozen foundation models for tuberculous vs pyogenic spinal infection"
-readme = "README.md"
+readme = "README_en.md"
 requires-python = ">=3.10"
 dependencies = ["numpy>=1.24", "scipy>=1.10", "scikit-learn>=1.3", "pandas>=2.0", "nibabel>=5.0"]
 license = { text = "MIT" }
