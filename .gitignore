@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+# never commit images, features or predictions
+*.nii
+*.nii.gz
+*.dcm
+*.zip
+*.npz
+data/
+features/
+results/
+weights/
